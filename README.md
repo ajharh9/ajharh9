@@ -1,6 +1,6 @@
 # Hi there, I'm Azhar Hussain! 👋
 
-🌟 **Backend Developer | Full-Stack Enthusiast | Problem Solver**
+🌟 **Full-Stack Developer | Dev-ops Enthusiast | Problem Solver**
 
 ---
 
