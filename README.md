@@ -1,6 +1,6 @@
 # Hi there, I'm Azhar Hussain! 👋
 
-🌟 **Backend Developer | Full-Stack Enthusiast | Problem Solver**  
+🌟 **Full-Stack Developer | DevOps Enthusiast | Problem Solver**  
 
 👋 Hi there! I’m a passionate software developer with expertise in **backend development**, **DevOps automation**, and building **scalable, high-performance applications**. My work revolves around crafting efficient solutions that simplify complex problems.  
 
