@@ -1,3 +1,18 @@
+## 🛠️ Technologies and Tools
+
+![Java](https://img.shields.io/badge/Code-Java-orange)
+![React](https://img.shields.io/badge/Frontend-React-blue)
+![Docker](https://img.shields.io/badge/DevOps-Docker-blue)
+![Kubernetes](https://img.shields.io/badge/Orchestration-Kubernetes-lightblue)
+
+---
+
+## 👨‍💻 About Me
+
+![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
+I’m a passionate **Backend Developer** and **Full-Stack Enthusiast** who loves solving problems and building scalable systems.  
+
 # Hi there, I'm Azhar Hussain! 👋
 
 🌟 **Full-Stack Developer | DevOps Enthusiast | Problem Solver**  
