@@ -1,17 +1,27 @@
-[[## Hi there 👋
+# Hi there, I'm Azhar Hussain! 👋
 
-<!--
-**ajharh9/ajharh9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 **Backend Developer | Full-Stack Enthusiast | Problem Solver**  
 
-Here are some ideas to get you started:
+👋 Hi there! I’m a passionate software developer with expertise in **backend development**, **DevOps automation**, and building **scalable, high-performance applications**. My work revolves around crafting efficient solutions that simplify complex problems.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-](https://www.linkedin.com/in/azhar-hussain-304017204/)](https://www.linkedin.com/in/azhar-hussain-304017204/)
+🔧 **Tech Stack**:
+- **Languages**: Java, C++, Python, JavaScript  
+- **Backend**: Java Spring Boot, RESTful APIs, Microservices Architecture  
+- **Frontend**: React, HTML, CSS, JavaScript  
+- **DevOps**: Docker, Kubernetes, Jenkins, GitLab CI/CD  
+- **Databases**: MySQL, PostgreSQL, Oracle  
+
+🚀 **What I’m Working On**:  
+- Building **ShopSphere**, an advanced e-commerce platform showcasing real-world features like authentication, shopping carts, real-time notifications, and payment integration.  
+
+🌱 **What I’m Learning**:  
+- Deepening my understanding of **System Design** and **Cloud Platforms (AWS)**.  
+- Exploring **DSA** with competitive programming on platforms like LeetCode and Codeforces.  
+
+💼 **Achievements**:  
+- Migrated complex legacy systems to modern platforms (CVS to Git, RHEL upgrades).  
+- Automated deployment pipelines, reducing manual intervention by 50%.  
+
+📫 **Let’s Connect**:  
+- 💼 [LinkedIn](https://www.linkedin.com/in/azhar-hussain-304017204/)  
+- 🌐 [Portfolio](#) (Coming soon!)  
