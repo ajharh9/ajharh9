@@ -69,7 +69,7 @@ Technologies: **React**, **Spring Boot**, **MySQL**, **Docker**, **WebSockets**,
 
 - 💼 **LinkedIn**: [Azhar Hussain](https://www.linkedin.com/in/azhar-hussain-304017204/)
 - 🌐 **Portfolio**: [Coming soon!]
-- 📧 **Email**: azhar.hussain@example.com
+- 📧 **Email**: ajharh09@gmail.com
 
 ---
 
